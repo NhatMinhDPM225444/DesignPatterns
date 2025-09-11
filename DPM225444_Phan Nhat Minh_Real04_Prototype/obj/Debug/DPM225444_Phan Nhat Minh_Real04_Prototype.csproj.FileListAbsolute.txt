@@ -1,0 +1,7 @@
+Z:\Design Pattern\DPM225444_Phan Nhat Minh_23 Pattern\DPM225444_Phan Nhat Minh_Real04_Prototype\bin\Debug\DPM225444_Phan Nhat Minh_Real04_Prototype.exe.config
+Z:\Design Pattern\DPM225444_Phan Nhat Minh_23 Pattern\DPM225444_Phan Nhat Minh_Real04_Prototype\bin\Debug\DPM225444_Phan Nhat Minh_Real04_Prototype.exe
+Z:\Design Pattern\DPM225444_Phan Nhat Minh_23 Pattern\DPM225444_Phan Nhat Minh_Real04_Prototype\bin\Debug\DPM225444_Phan Nhat Minh_Real04_Prototype.pdb
+Z:\Design Pattern\DPM225444_Phan Nhat Minh_23 Pattern\DPM225444_Phan Nhat Minh_Real04_Prototype\obj\Debug\DPM225444_Phan Nhat Minh_Real04_Prototype.csproj.AssemblyReference.cache
+Z:\Design Pattern\DPM225444_Phan Nhat Minh_23 Pattern\DPM225444_Phan Nhat Minh_Real04_Prototype\obj\Debug\DPM225444_Phan Nhat Minh_Real04_Prototype.csproj.CoreCompileInputs.cache
+Z:\Design Pattern\DPM225444_Phan Nhat Minh_23 Pattern\DPM225444_Phan Nhat Minh_Real04_Prototype\obj\Debug\DPM225444_Phan Nhat Minh_Real04_Prototype.exe
+Z:\Design Pattern\DPM225444_Phan Nhat Minh_23 Pattern\DPM225444_Phan Nhat Minh_Real04_Prototype\obj\Debug\DPM225444_Phan Nhat Minh_Real04_Prototype.pdb
